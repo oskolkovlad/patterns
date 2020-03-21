@@ -36,7 +36,7 @@ namespace Singleton
                 comp2.OS = OS.getInstance("Windows 10");
                 Console.WriteLine(comp2.OS.Name);
  
-            })).Start();
+            }).Start();
  
             Computer comp = new Computer();
             comp.Launch("Windows 8.1");
