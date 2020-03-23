@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabricMethod", "FabricMethod\FabricMethod.csproj", "{6AF4C38A-B6DB-4C6C-A63D-85CF1C508A38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{3BE094DB-54DB-488C-BD60-063F02095CAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{6AF4C38A-B6DB-4C6C-A63D-85CF1C508A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AF4C38A-B6DB-4C6C-A63D-85CF1C508A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AF4C38A-B6DB-4C6C-A63D-85CF1C508A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE094DB-54DB-488C-BD60-063F02095CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE094DB-54DB-488C-BD60-063F02095CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE094DB-54DB-488C-BD60-063F02095CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE094DB-54DB-488C-BD60-063F02095CAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

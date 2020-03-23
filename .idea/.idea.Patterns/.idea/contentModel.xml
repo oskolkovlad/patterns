@@ -4,6 +4,52 @@
     <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
     <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Patterns.-1021569152.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="AbstractFactory" t="IncludeRecursive">
+        <e p="AbstractFactory.csproj" t="IncludeRecursive" />
+        <e p="AbstractFactoryImplemention" t="Include">
+          <e p="Auto.cs" t="Include" />
+          <e p="AutoBody.cs" t="Include" />
+          <e p="AutoComponent.cs" t="Include" />
+          <e p="AutoEngine.cs" t="Include" />
+          <e p="AutoFactory.cs" t="Include" />
+          <e p="AutoTank.cs" t="Include" />
+          <e p="CarBody.cs" t="Include" />
+          <e p="CarEngine.cs" t="Include" />
+          <e p="CarFactory.cs" t="Include" />
+          <e p="CarTank.cs" t="Include" />
+          <e p="TruckBody.cs" t="Include" />
+          <e p="TruckEngine.cs" t="Include" />
+          <e p="TruckFactory.cs" t="Include" />
+          <e p="TruckTank.cs" t="Include" />
+        </e>
+        <e p="BaseAbstractFactory" t="Include">
+          <e p="Client.cs" t="Include" />
+          <e p="ConcreteFactory1.cs" t="Include" />
+          <e p="ConcreteFactory2.cs" t="Include" />
+          <e p="ConcreteProductA1.cs" t="Include" />
+          <e p="ConcreteProductA2.cs" t="Include" />
+          <e p="ConcreteProductB1.cs" t="Include" />
+          <e p="ConcreteProductB2.cs" t="Include" />
+          <e p="IAbstractFactory.cs" t="Include" />
+          <e p="IAbstractProductA.cs" t="Include" />
+          <e p="IAbstractProductB.cs" t="Include" />
+        </e>
+        <e p="BaseImplemention" t="Include">
+          <e p="Body.cs" t="Include" />
+          <e p="Car.cs" t="Include" />
+          <e p="Engine.cs" t="Include" />
+          <e p="Tank.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="AbstractFactory.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="FabricMethod" t="IncludeRecursive">
         <e p="FabricMethod" t="Include">
           <e p="IMessage.cs" t="Include" />
